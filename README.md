@@ -47,13 +47,18 @@ You can read this guide from beginning to end or you can follow the paths below 
 
 ### How To Contribute
 
-Please reach out at hi \[@] cathyr.com! Future contributions will be handled via GitHub.\
+Please reach out at hi \[@] cathyr.com! Future contributions will be handled via GitHub.
 
-
-{% hint style="warning" %}
 ### Stay Informed
 
-You can hear about updates to the site, new projects, and interesting findings at the intersection of technology and our environment by subscribing to my [newsletter](https://buttondown.email/myqntm).
+You can hear about updates to the site, new projects, and interesting findings at the intersection of technology and our environment by subscribing to my [newsletter](https://buttondown.email/myqntm).\
+
+
+{% hint style="info" %}
+**Acknowledgments:** Madhuri Karak, Rudo Kemper, Aaron Adams, Arpan Somani, Josh Nesbit, [Fanesha Fabre](https://www.faneshafabreart.com/), and the organizations that entrusted me with their challenges and dreams.
 {% endhint %}
 
-Art by [Fanesha Fabre](https://www.faneshafabreart.com/)
+
+
+
+
