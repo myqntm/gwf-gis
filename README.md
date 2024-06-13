@@ -20,7 +20,7 @@ layout:
 
 ### About
 
-Environmental justice organizations increasingly need geospatial (GIS) data to track changes, monitor resources, and document land claims. Technology advancements have made GIS more accessible, extending their use beyond specialized institutions to consumers, while drones and remote sensors have further facilitated low-cost remote data collection. In social and climate justice, these tools can be powerful if community-based and maintained but we must be mindful of data integrity, security, and ethics.&#x20;
+Environmental justice organizations increasingly need GIS tools to track changes, monitor resources, and document land claims. Technology advancements have made GIS more accessible, extending their use beyond specialized institutions to consumers, while drones and remote sensors have further facilitated low-cost remote data collection. In social and climate justice, these tools can be powerful if community-based and maintained but we must be mindful of data integrity, security, and ethics.&#x20;
 
 This guide is aimed at placing a digital rights lens on GIS, both the platforms and the accompanying data, in an effort to make responsible mapping more accessible for environmental justice organizations. I aim for this first version of the guide to:
 
@@ -47,7 +47,13 @@ You can read this guide from beginning to end or you can follow the paths below 
 
 ### How To Contribute
 
-Please reach out at hi \[@] cathyr.com! Future contributions will be handled via GitHub.
+You can submit changes directly or submit requests via the [GitHub repo](https://github.com/myqntm/gwf-gis/) or click on ‘Edit on GitHub’ on the right side of each page.
+
+If you want to chat, please reach out at hi \[@] cathyr.com!&#x20;
+
+### How To Cite
+
+If you are referring to this guide in your work, please attribute your use to '_Richards, C. Navigating GIS, The Green Web Fellow 2024_' along with the link.
 
 ### Stay Informed
 
