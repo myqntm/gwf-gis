@@ -49,16 +49,15 @@ You can read this guide from beginning to end or you can follow the paths below 
 
 You can submit changes directly or submit requests via the [GitHub repo](https://github.com/myqntm/gwf-gis/) or click on ‘Edit on GitHub’ on the right side of each page.
 
-If you want to chat, please reach out at hi \[@] cathyr.com!&#x20;
-
 ### How To Cite
 
 If you are referring to this guide in your work, please attribute your use to '_Richards, C. Navigating GIS, The Green Web Fellow 2024_' along with the link.
 
 ### Stay Informed
 
-You can hear about updates to the site, new projects, and interesting findings at the intersection of technology and our environment by subscribing to my [newsletter](https://buttondown.email/myqntm).\
+You can hear about updates to the site, new projects, and interesting findings at the intersection of technology and our environment by subscribing to my [newsletter](https://buttondown.email/myqntm).
 
+If you want to chat, please reach out at hi \[@] cathyr.com or visit my website at [www.cathyr.com](https://www.cathyr.com)!&#x20;
 
 {% hint style="info" %}
 **Acknowledgments:** Madhuri Karak, Rudo Kemper, Aaron Adams, Arpan Somani, Josh Nesbit, [Fanesha Fabre](https://www.faneshafabreart.com/), and the organizations that entrusted me with their challenges and dreams.
